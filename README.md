@@ -6,19 +6,18 @@
 ## ✨ Projects
 | Project | Status | Coding Language | Language | Repo | The language of the notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [My Web Site](https://eneskeremaydin.github.io/)| 7x24x365 online | HTML/CSS/JavaScript | TR - EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/EnesKeremAYDIN.github.io/) | - |
+| [My Web Site](https://eneskeremaydin.com.tr)| 7x24x365 online | HTML/CSS/JavaScript | TR - EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/EnesKeremAYDIN.github.io) | - |
 | [My Discord Bot (Atatürk)](https://top.gg/bot/719897844085161985)| 7x24x365 online | Node.JS (Discord.js) | TR | - | - |
 | [My Discord Bot (Lucky Block)](https://top.gg/bot/825666272335364108)| 7x24x365 online | Node.JS (Discord.js) | EN | - | - |
-| [My Discord Bot (Cyrpto)](https://top.gg/bot/819547341836386315)| 7x24x365 online | Node.JS (Discord.js) | EN | - | - |
 
 ## ✨ Repositories
 | Repo | Status | Coding Language | Language | The language of the notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [Atatürk Photo/Video/Gif Archive](https://github.com/EnesKeremAYDIN/Ataturk)| Document | - | - | - |
-| [Data Archive](https://github.com/EnesKeremAYDIN/veri)| Document | - | - | TR |
-| [My Arduino](https://github.com/EnesKeremAYDIN/arduino) | Document | C/C++ | - | EN |
+| [Arduino](https://github.com/EnesKeremAYDIN/arduino) | Document | C/C++ | - | EN |
 | [Discord Bot Codes](https://github.com/EnesKeremAYDIN/Discord.js) | Document | Node.JS (Discord.js) | - | TR - EN |
 | [Minecraft Server Login Bot](https://github.com/EnesKeremAYDIN/minecraft-server-login-bot) | Document | Node.JS | - | TR - EN |
+| [Unofficial translation (EN to TR) of the MIT license.](https://github.com/EnesKeremAYDIN/mit-lisansi-gayriresmi-ceviri)| Document | - | - | - |
 | [Sozlukkaristir.com](https://EnesKeremAYDIN.github.io/sozlukkaristir.com) | 7x24x365 online | HTML/CSS/JavaScript | - | TR |
 
 
