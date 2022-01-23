@@ -18,10 +18,13 @@
 | Repo | Status | Coding Language | Language | The language of the notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [Atatürk Photo/Video/Gif Archive](https://github.com/EnesKeremAYDIN/Ataturk)| Document | - | - | TR |
+| [MKP224O on Google Colab](https://github.com/EnesKeremAYDIN/mkp224o-on-google-colab) | Document | Jupyter Notebook | - | EN |
+| [xxx](xxx) | Document | xxx | - | xxx |
+| [xxx](xxx) | Document | xxx | - | xxx |
 | [Arduino](https://github.com/EnesKeremAYDIN/arduino) | Document | C/C++ | - | EN |
 | [Minecraft Server Login Bot](https://github.com/EnesKeremAYDIN/minecraft-server-login-bot) | Document | Node.JS | - | TR - EN |
 | [Unofficial translation (EN to TR) of the MIT license.](https://github.com/EnesKeremAYDIN/mit-lisansi-gayriresmi-ceviri)| Document | - | - | TR - EN |
-| [Sozlukkaristir.com](https://EnesKeremAYDIN.github.io/sozlukkaristir.com) | 7x24x365 online | HTML/CSS/JavaScript | - | TR |
+| [Sözlük Karıştır](https://EnesKeremAYDIN.github.io/sozlukkaristir.com) | 7x24x365 online | HTML/CSS/JavaScript | - | TR |
 
 
 ## ✨ My Packages
