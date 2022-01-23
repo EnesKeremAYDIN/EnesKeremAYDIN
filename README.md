@@ -6,9 +6,10 @@
 ## ✨ Projects
 | Project | Status | Coding Language | Language | Repo | The language of the notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [My Web Site](https://eneskeremaydin.com.tr)| 7x24x365 online | HTML/CSS/JavaScript | TR - EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/EnesKeremAYDIN.github.io) | - |
-| [My Discord Bot (Atatürk)](https://top.gg/bot/719897844085161985)| 7x24x365 online | Node.JS (Discord.js) | TR | - | - |
-| [My Discord Bot (Lucky Block)](https://top.gg/bot/825666272335364108)| 7x24x365 online | Node.JS (Discord.js) | EN | - | - |
+| [Personal Web Site](https://eneskeremaydin.com.tr)| 7x24x365 online | HTML/CSS/JavaScript | TR - EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/EnesKeremAYDIN.github.io) | - |
+| [Atatürk Discord Bot](https://top.gg/bot/719897844085161985)| 7x24x365 online | Node.JS (Discord.js) | TR | - | - |
+| [Lucky Block Discord Bot)](https://top.gg/bot/825666272335364108)| 7x24x365 online | Node.JS (Discord.js) | EN | - | - |
+| [Cryptocurrency Price Tracker, Cryptocurrency Market Cap Tracker and Blockchain Networks Gas Fee Tracker Discord Bots](https://eneskeremaydin.github.io/discord-tracker-bots)| 7x24x365 online | Node.JS (Discord.js) | EN | - | - |
 
 ## ✨ Repositories
 | Repo | Status | Coding Language | Language | The language of the notes |
