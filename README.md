@@ -17,10 +17,10 @@
 ## ✨ Repositories
 | Repo | Status | Coding Language | Language | The language of the notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Atatürk Photo/Video/Gif Archive](https://github.com/EnesKeremAYDIN/Ataturk)| Document | - | - | - |
+| [Atatürk Photo/Video/Gif Archive](https://github.com/EnesKeremAYDIN/Ataturk)| Document | - | - | TR |
 | [Arduino](https://github.com/EnesKeremAYDIN/arduino) | Document | C/C++ | - | EN |
 | [Minecraft Server Login Bot](https://github.com/EnesKeremAYDIN/minecraft-server-login-bot) | Document | Node.JS | - | TR - EN |
-| [Unofficial translation (EN to TR) of the MIT license.](https://github.com/EnesKeremAYDIN/mit-lisansi-gayriresmi-ceviri)| Document | - | - | - |
+| [Unofficial translation (EN to TR) of the MIT license.](https://github.com/EnesKeremAYDIN/mit-lisansi-gayriresmi-ceviri)| Document | - | - | TR - EN |
 | [Sozlukkaristir.com](https://EnesKeremAYDIN.github.io/sozlukkaristir.com) | 7x24x365 online | HTML/CSS/JavaScript | - | TR |
 
 
