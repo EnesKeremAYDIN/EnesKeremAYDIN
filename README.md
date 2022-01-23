@@ -38,4 +38,5 @@
 
 ## Stats
 
-[![Enes Kerem "EKA" AYDIn's](https://github-readme-stats.vercel.app/api?username=EnesKeremAYDIN&show_icons=true&theme=dark)](#) - [![Enes Kerem "EKA" AYDIn's](https://github-readme-stats.vercel.app/api/top-langs/?username=EnesKeremAYDIN&layout=compact&theme=dark)](#)
+[![Enes Kerem "EKA" AYDIn's](https://github-readme-stats.vercel.app/api?username=EnesKeremAYDIN&show_icons=true&theme=dark)](#)  
+[![Enes Kerem "EKA" AYDIn's](https://github-readme-stats.vercel.app/api/top-langs/?username=EnesKeremAYDIN&layout=compact&theme=dark)](#)
