@@ -6,7 +6,7 @@
 ## ✨ Projects
 | Project | Status | Coding Language | Language | Repo | The language of the notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Personal Web Site](https://eneskeremaydin.com.tr)| 7x24x365 online | HTML/CSS/JavaScript | TR - EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/EnesKeremAYDIN.github.io) | - |
+| [Personal Web Site](https://eneskeremaydin.com.tr)| 7x24x365 online | HTML/CSS/JavaScript | - EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/EnesKeremAYDIN.github.io) | - |
 | [Atatürk Discord Bot](https://top.gg/bot/719897844085161985)| 7x24x365 online | Node.JS (Discord.js) | TR | - | - |
 | [Lucky Block Discord Bot](https://top.gg/bot/825666272335364108)| 7x24x365 online | Node.JS (Discord.js) | EN | - | - |
 | [Cryptocurrency Price Tracker Discord Bots](https://eneskeremaydin.github.io/discord-tracker-bots#price-trackers)| 7x24x365 online | Node.JS (Discord.js) | EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/discord-tracker-bots) | - |
