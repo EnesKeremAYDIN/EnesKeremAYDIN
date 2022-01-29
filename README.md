@@ -23,7 +23,7 @@
 | [All RGB Decimal Codes](https://github.com/EnesKeremAYDIN/all-rgb-decimal-codes) | Document | Python - Document | - | EN |
 | [Arduino](https://github.com/EnesKeremAYDIN/arduino) | Document | C/C++ | EN | EN |
 | [Minecraft Server Login Bot](https://github.com/EnesKeremAYDIN/minecraft-server-login-bot) | Document | Node.JS | EN | TR - EN |
-| [Unofficial translation (EN to TR) of the MIT license.](https://github.com/EnesKeremAYDIN/mit-lisansi-gayriresmi-ceviri)| Document | - | TR - EN | TR - EN |
+| [Unofficial translation (EN to TR) of the MIT license](https://github.com/EnesKeremAYDIN/mit-lisansi-gayriresmi-ceviri)| Document | - | TR - EN | TR - EN |
 | [Sözlük Karıştır](https://EnesKeremAYDIN.github.io/sozlukkaristir.com) | 7x24x365 online | HTML/CSS/JavaScript | TR | TR |
 
 
