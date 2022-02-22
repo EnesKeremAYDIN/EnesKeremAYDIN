@@ -30,8 +30,8 @@
 ## ✨ My Packages
 | Package Name  | Description | Coding Language | Platform | Content Language | GitHub Repo |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [rastgelekelime](https://www.npmjs.com/package/rastgelekelime)  | Make up one or more Turkish words. | Node.js | NPMJs | TR | [GitHub Repo](https://github.com/EnesKeremAYDIN/npm-rastgelekelime) |
-| [ataturk-sozu](https://www.npmjs.com/package/ataturk-sozu)  | Print out one or more Mustafa Kemal Atatürk's words. | Node.js | NPMJs | TR | [GitHub Repo](https://github.com/EnesKeremAYDIN/npm-ataturk-sozu) |
+| [rastgelekelime](https://www.npmjs.com/package/rastgelekelime)  | Make up one or more Turkish words. | Node.js | NPM | TR | [GitHub Repo](https://github.com/EnesKeremAYDIN/npm-rastgelekelime) |
+| [ataturk-sozu](https://www.npmjs.com/package/ataturk-sozu)  | Print out one or more Mustafa Kemal Atatürk's words. | Node.js | NPM | TR | [GitHub Repo](https://github.com/EnesKeremAYDIN/npm-ataturk-sozu) |
 
 ## 📷 Social Media & ☎️ Contact
 - [All](https://eneskeremaydin.github.io/bio)
