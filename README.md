@@ -4,7 +4,7 @@
 [![Discord](https://discord.com/api/guilds/817779288296128512/widget.png)](https://discord.gg/fJGtmKbuQB)
 
 ## ✨ Projects
-| Project | Status | Coding Language | Language | Repo | The language of the notes |
+| Project | Status | Coding Language | Content Language | Repo | Note Language |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [Personal Web Site](https://eneskeremaydin.com.tr)| 7x24x365 online | HTML/CSS/JavaScript | EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/EnesKeremAYDIN.github.io) | - |
 | [Atatürk Discord Bot](https://top.gg/bot/719897844085161985)| 7x24x365 online | Node.JS (Discord.js) | TR | - | - |
@@ -15,7 +15,7 @@
 | [Personal Url Shorter](https://EKAs.link)| 7x24x365 online | HTML | - | [GitHub Repo](https://github.com/EnesKeremAYDIN0/EnesKeremAYDIN0) | - |
 
 ## ✨ Repositories
-| Repo | Status | Coding Language | Language | The language of the notes |
+| Repo | Status | Coding Language | Content Language | The language of the notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [Atatürk Photo/Video/Gif Archive](https://github.com/EnesKeremAYDIN/Ataturk)| Document | - | - | TR |
 | [MKP224O on Google Colab](https://github.com/EnesKeremAYDIN/mkp224o-on-google-colab) | Document | Jupyter Notebook | EN | EN |
@@ -28,10 +28,10 @@
 
 
 ## ✨ My Packages
-| Package Name | Package Type | Description | Coding Language | Language | GitHub Repo |
+| Package Name  | Description | Coding Language | Platform | Content Language | GitHub Repo |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [rastgelekelime](https://www.npmjs.com/package/rastgelekelime) | NPM | Make up one or more Turkish words. | Node.js | TR | [GitHub Repo](https://github.com/EnesKeremAYDIN/npm-rastgelekelime) |
-| [ataturk-sozu](https://www.npmjs.com/package/ataturk-sozu) | NPM | Print out one or more Mustafa Kemal Atatürk's words. | Node.js | TR | [GitHub Repo](https://github.com/EnesKeremAYDIN/npm-ataturk-sozu) |
+| [rastgelekelime](https://www.npmjs.com/package/rastgelekelime)  | Make up one or more Turkish words. | Node.js | NPMJs | TR | [GitHub Repo](https://github.com/EnesKeremAYDIN/npm-rastgelekelime) |
+| [ataturk-sozu](https://www.npmjs.com/package/ataturk-sozu)  | Print out one or more Mustafa Kemal Atatürk's words. | Node.js | NPMJs | TR | [GitHub Repo](https://github.com/EnesKeremAYDIN/npm-ataturk-sozu) |
 
 ## 📷 Social Media & ☎️ Contact
 - [All](https://eneskeremaydin.github.io/bio)
