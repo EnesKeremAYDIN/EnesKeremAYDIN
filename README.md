@@ -25,6 +25,7 @@
 | [Minecraft Server Login Bot](https://github.com/EnesKeremAYDIN/minecraft-server-login-bot) | Document | Node.JS | EN | TR - EN |
 | [Unofficial translation (EN to TR) of the MIT license](https://github.com/EnesKeremAYDIN/mit-lisansi-gayriresmi-ceviri)| Document | - | TR - EN | TR - EN |
 | [Sözlük Karıştır](https://EnesKeremAYDIN.github.io/sozlukkaristir.com) | 7x24x365 online | HTML/CSS/JavaScript | TR | TR |
+| [Blank](https://github.com/EnesKeremAYDIN/Blank) | Document | - | - | - |
 
 
 ## ✨ My Packages
