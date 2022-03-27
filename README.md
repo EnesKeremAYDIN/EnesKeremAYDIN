@@ -19,12 +19,15 @@
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [Atatürk Photo/Video/Gif Archive](https://github.com/EnesKeremAYDIN/Ataturk)| Document | - | - | TR |
 | [MKP224O on Google Colab](https://github.com/EnesKeremAYDIN/mkp224o-on-google-colab) | Document | Jupyter Notebook | EN | EN |
-| [Clean Windows](https://github.com/EnesKeremAYDIN/CleanWindows) | Document | Batchfile - PowerShell | - | EN |
+| [Clean Windows](https://github.com/EnesKeremAYDIN/CleanWindows) | Document | Batchfile - PowerShell | EN | - |
+| [ResetNetworkSettings](https://github.com/EnesKeremAYDIN/ResetNetworkSettings) | Document | Batchfile | EN | - |
+| [NVIDIA GeForge Now DX11 to DX9](https://github.com/EnesKeremAYDIN/GeForgeNowDX11toDX9) | Document |  PowerShell | EN | - |
 | [Countdown Video Generator](https://github.com/EnesKeremAYDIN/python-countdown-video-generator) | Document | Python | - | EN |
-| [All RGB Decimal Codes](https://github.com/EnesKeremAYDIN/all-rgb-decimal-codes) | Document | Python - Document | - | EN |
-| [Arduino](https://github.com/EnesKeremAYDIN/arduino) | Document | C/C++ | EN | EN |
+| [Steam Hour Boosting](https://github.com/EnesKeremAYDIN/steam-hour-boosting) | Document | JavaScript | EN | EN |
 | [Minecraft Server Login Bot](https://github.com/EnesKeremAYDIN/minecraft-server-login-bot) | Document | Node.JS | EN | TR - EN |
+| [Arduino](https://github.com/EnesKeremAYDIN/arduino) | Document | C/C++ | EN | EN |
 | [Unofficial translation (EN to TR) of the MIT license](https://github.com/EnesKeremAYDIN/mit-lisansi-gayriresmi-ceviri)| Document | - | TR - EN | TR - EN |
+| [All RGB Decimal Codes](https://github.com/EnesKeremAYDIN/all-rgb-decimal-codes) | Document | Python - Document | - | EN |
 | [Sözlük Karıştır](https://EnesKeremAYDIN.github.io/sozlukkaristir.com) | 7x24x365 online | HTML/CSS/JavaScript | TR | TR |
 | [Blank](https://github.com/EnesKeremAYDIN/Blank) | Document | - | - | - |
 
