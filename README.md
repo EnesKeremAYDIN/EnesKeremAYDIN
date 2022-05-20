@@ -21,7 +21,7 @@
 | [Discord.js v13 Empty Bot](https://github.com/EnesKeremAYDIN/discord.js-v13-empty-bot) | Document | Node.js | EN | EN |
 | [MKP224O on Google Colab](https://github.com/EnesKeremAYDIN/mkp224o-on-google-colab) | Document | Jupyter Notebook | EN | EN |
 | [Clean Windows](https://github.com/EnesKeremAYDIN/CleanWindows) | Document | Batchfile - PowerShell | EN | - |
-| [ResetNetworkSettings](https://github.com/EnesKeremAYDIN/ResetNetworkSettings) | Document | Batchfile | EN | - |
+| [Reset Network Settings (Windows)](https://github.com/EnesKeremAYDIN/ResetNetworkSettings) | Document | Batchfile | EN | - |
 | [NVIDIA GeForge Now DX11 to DX9](https://github.com/EnesKeremAYDIN/GeForgeNowDX11toDX9) | Document |  PowerShell | EN | - |
 | [Countdown Video Generator](https://github.com/EnesKeremAYDIN/python-countdown-video-generator) | Document | Python | - | EN |
 | [Steam Hour Boosting](https://github.com/EnesKeremAYDIN/steam-hour-boosting) | Document | JavaScript | EN | EN |
