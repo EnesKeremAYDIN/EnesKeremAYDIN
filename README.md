@@ -19,6 +19,7 @@
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [Atatürk Photo/Video/Gif Archive](https://github.com/EnesKeremAYDIN/Ataturk)| Document | - | - | TR |
 | [Discord.js v13 Empty Bot](https://github.com/EnesKeremAYDIN/discord.js-v13-empty-bot) | Document | Node.js | EN | EN |
+| [Discord.js v12 Guild Creator Bot](https://github.com/EnesKeremAYDIN/discord.js-v12-guild-creator) | Document | Node.js | EN | EN |
 | [MKP224O on Google Colab](https://github.com/EnesKeremAYDIN/mkp224o-on-google-colab) | Document | Jupyter Notebook | EN | EN |
 | [Clean Windows](https://github.com/EnesKeremAYDIN/CleanWindows) | Document | Batchfile - PowerShell | EN | - |
 | [Reset Network Settings (Windows)](https://github.com/EnesKeremAYDIN/ResetNetworkSettings) | Document | Batchfile | EN | - |
