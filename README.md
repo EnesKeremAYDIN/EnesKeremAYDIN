@@ -6,12 +6,12 @@
 ### [If you like my projects, you can support me.](https://github.com/EnesKeremAYDIN/donate)
 
 ## ✨ Projects
-| Project | Status | Coding Language | Content Language | Repo | Note Language |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Personal Web Site](https://eneskeremaydin.com.tr)| 7x24x365 online | HTML/CSS/JavaScript | EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/EnesKeremAYDIN.github.io) | - |
-| [Personal Url Shorter](https://EKAs.link)| 7x24x365 online | HTML | - | [GitHub Repo](https://github.com/EnesKeremAYDIN0/EnesKeremAYDIN0) | - |
-| [Atatürk Discord Bot](https://top.gg/bot/719897844085161985)| 7x24x365 online | Node.JS (Discord.js) | TR | - | - |
-| [Cryptocurrency Tracker Discord Bots](https://cryptotrackerbot.com) | 7x24x365 online | Node.JS (Discord.js) | EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/discord-tracker-bots) | - |
+| Project | Status | Coding Language | Content Language | Repo |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| [Personal Web Site](https://eneskeremaydin.com.tr)| 7x24x365 online | HTML/CSS/JavaScript | EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/EnesKeremAYDIN.github.io) |
+| [Personal Url Shorter](https://EKAs.link)| 7x24x365 online | HTML | - | [GitHub Repo](https://github.com/EnesKeremAYDIN0/EnesKeremAYDIN0) |
+| [Atatürk Discord Bot](https://top.gg/bot/719897844085161985)| 7x24x365 online | Node.JS (Discord.js) | TR | - |
+| [Cryptocurrency Tracker Discord Bots](https://cryptotrackerbot.com) | 7x24x365 online | Node.JS (Discord.js) | EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/discord-tracker-bots) |
 
 ## ✨ Repositories
 | Repo | Status | Coding Language | Content Language | The language of the notes |
