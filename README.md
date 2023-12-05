@@ -11,12 +11,7 @@
 | [Personal Web Site](https://eneskeremaydin.com.tr)| 7x24x365 online | HTML/CSS/JavaScript | EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/EnesKeremAYDIN.github.io) | - |
 | [Personal Url Shorter](https://EKAs.link)| 7x24x365 online | HTML | - | [GitHub Repo](https://github.com/EnesKeremAYDIN0/EnesKeremAYDIN0) | - |
 | [Atatürk Discord Bot](https://top.gg/bot/719897844085161985)| 7x24x365 online | Node.JS (Discord.js) | TR | - | - |
-| [Crypto Fear and Greed Index Discord Bot](https://cryptotrackerbot.com) | 7x24x365 online | Node.JS (Discord.js) | EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/discord-tracker-bots) | - |
-| [Bitcoin Dominace Tracker Discord Bot](https://cryptotrackerbot.com) | 7x24x365 online | Node.JS (Discord.js) | EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/discord-tracker-bots) | - |
-| [Cryptocurrency Price Tracker Discord Bots](https://cryptotrackerbot.com) | 7x24x365 online | Node.JS (Discord.js) | EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/discord-tracker-bots) | - |
-| [Blockchain Network Gas Fee Tracker Discord Bots](https://cryptotrackerbot.com) | 7x24x365 online | Node.JS (Discord.js) | EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/discord-tracker-bots) | - |
-| [Cryptocurrency Market Cap Tracker Discord Bots](https://cryptotrackerbot.com) | 7x24x365 online | Node.JS (Discord.js) | EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/discord-tracker-bots) | - |
-| [Lucky Block Discord Bot](https://top.gg/bot/825666272335364108)| 7x24x365 online | Node.JS (Discord.js) | EN | - | - |
+| [Cryptocurrency Tracker Discord Bots](https://cryptotrackerbot.com) | 7x24x365 online | Node.JS (Discord.js) | EN | [GitHub Repo](https://github.com/EnesKeremAYDIN/discord-tracker-bots) | - |
 
 ## ✨ Repositories
 | Repo | Status | Coding Language | Content Language | The language of the notes |
