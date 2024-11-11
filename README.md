@@ -1,1 +1,1 @@
-# Hi 👋 All details on my [website](https://ekas.link).
+# Hi 👋 Details on my [website](https://ekas.link).
