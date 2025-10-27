@@ -3,17 +3,13 @@
 ---
 
 ## Packages
-
 | Name | Manager | Description| Coding Language | Content Language | Repo |
 | --- | --- | --- | --- | --- | --- |
 | [rastgelekelime](https://www.npmjs.com/package/rastgelekelime) | NPM | Make up one or more Turkish words. | Node.js | Turkish| [GitHub](https://github.com/EnesKeremAYDIN/npm-rastgelekelime) |
 | [ataturk-sozu](https://www.npmjs.com/package/ataturk-sozu) | NPM | Print out one or more Mustafa Kemal Atatürk's words. | Node.js | Turkish| [GitHub](https://github.com/EnesKeremAYDIN/npm-ataturk-sozu) |
 | [rastgelekelime](https://pypi.org/project/rastgelekelime)| PIP | Make up one or more Turkish words. | Python| Turkish| [GitHub](https://github.com/EnesKeremAYDIN/pip-rastgelekelime) |
 
----
-
 ## Repositories
-
 | Name| Coding Language| Project Language | Guide Language |
 | --- | --- | --- | --- |
 | [palette.css](https://github.com/EnesKeremAYDIN/palette.css)| HTML, CSS, JavaScript| English| English|
