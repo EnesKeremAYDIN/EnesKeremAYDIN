@@ -25,7 +25,7 @@
 | [Bitcoin Halving Countdown](https://github.com/EnesKeremAYDIN/bitcoin-halving-countdown)| HTML, CSS, JavaScript| English | English |
 | [Bitcoin Price Tracker Chrome Extension](https://github.com/EnesKeremAYDIN/bitcoin-price-tracker-extension) | HTML, CSS, JavaScript| English | English |
 | [Wikipedia Dead Link Filter](https://github.com/EnesKeremAYDIN/wikipedia-olu-link-filtreleyici) | Python | Turkish | Turkish |
-| [Clean Windows](https://github.com/EnesKeremAYDIN/CleanWindows) | Batchfile --- PowerShell | English | English |
+| [Clean Windows](https://github.com/EnesKeremAYDIN/CleanWindows) | Batchfile, PowerShell | English | English |
 | [Delete all CloudFlare DNS](https://github.com/EnesKeremAYDIN/deleteAllCloudflareDNS) | Node.js| English | English |
 | [Google Index API Submitter](https://github.com/EnesKeremAYDIN/google-index-api-submitter)| Node.js| English | English |
 | [Telegram Phone Number Logger](https://github.com/EnesKeremAYDIN/TelegramPhoneNumberLoggerBot)| Node.js| English | English |
