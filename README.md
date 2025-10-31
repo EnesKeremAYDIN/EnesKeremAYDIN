@@ -26,13 +26,14 @@
 | [Bitcoin Price Tracker Chrome Extension](https://github.com/EnesKeremAYDIN/bitcoin-price-tracker-extension) | HTML, CSS, JavaScript| English | English |
 | [Wikipedia Dead Link Filter](https://github.com/EnesKeremAYDIN/wikipedia-olu-link-filtreleyici) | Python | Turkish | Turkish |
 | [Clean Windows](https://github.com/EnesKeremAYDIN/CleanWindows) | Batchfile, PowerShell | English | English |
-| [Delete all CloudFlare DNS](https://github.com/EnesKeremAYDIN/deleteAllCloudflareDNS) | Node.js| English | English |
-| [Google Index API Submitter](https://github.com/EnesKeremAYDIN/google-index-api-submitter)| Node.js| English | English |
-| [Telegram Phone Number Logger](https://github.com/EnesKeremAYDIN/TelegramPhoneNumberLoggerBot)| Node.js| English | English |
+| [Delete all CloudFlare DNS](https://github.com/EnesKeremAYDIN/deleteAllCloudflareDNS) | Node.js | English | English |
+| [Google Index API Submitter](https://github.com/EnesKeremAYDIN/google-index-api-submitter)| Node.js | English | English |
+| [Telegram Phone Number Logger](https://github.com/EnesKeremAYDIN/TelegramPhoneNumberLoggerBot)| Node.js | English | English |
 | [Telegram Chat ID Finder](https://github.com/EnesKeremAYDIN/telegram-chat-id) | Python | English | English |
 | [Telegram to Discord](https://github.com/EnesKeremAYDIN/TelegramToDiscord)| Python | English | English |
 | [NVIDIA GeForge Now DX11 to DX9](https://github.com/EnesKeremAYDIN/GeForgeNowDX11toDX9) | PowerShell | English | English |
-| [Key Generator](https://github.com/EnesKeremAYDIN/keyGenerator) | Node.js| English | English |
+| [Key Generator](https://github.com/EnesKeremAYDIN/keyGenerator) | Node.js | English | English |
+| [oniongen-js](https://github.com/EnesKeremAYDIN/oniongen-js)| Node.js | English | English |
 | [MKP224O on Google Colab](https://github.com/EnesKeremAYDIN/mkp224o-on-google-colab)| Jupyter Notebook | English | English |
-| [Steam Hour Boosting](https://github.com/EnesKeremAYDIN/steam-hour-boosting)| Node.js| English | English |
-| [Minecraft Server Login](https://github.com/EnesKeremAYDIN/minecraft-server-login-bot)| Node.js| English | English |
+| [Steam Hour Boosting](https://github.com/EnesKeremAYDIN/steam-hour-boosting)| Node.js | English | English |
+| [Minecraft Server Login](https://github.com/EnesKeremAYDIN/minecraft-server-login-bot)| Node.js | English | English |
