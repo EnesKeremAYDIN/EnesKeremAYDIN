@@ -11,12 +11,11 @@
 | [**Personal Website**](https://eneskeremaydin.com.tr) | Personal website created to showcase my projects, skills and contact information. |
 | [**URL Shorter**](https://EKAs.link) | Personal URL shorter created to shorten long URLs. |
 | [**Lab Portal**](https://lab.EKAs.dev) | Personal laboratory tools. |
+| [**Chain Platform**](https://chainplatform.co) | Leading the way in blockchain & crypto innovation with cutting-edge Web3 solutions and services. |
 | [**Üniversite Tercih**](https://universitetercih.net) | Türkiye's most comprehensive university preference platform. |
 | [**Sözlük Karıştır**](https://sozlukkaristir.com) | Turkish vocabulary learning site. |
-| [**Chain Platform**](https://chainplatform.co) | Leading the way in blockchain & crypto innovation with cutting-edge Web3 solutions and services. |
 | [**Askımız**](https://askimiz.net) | A digital gifting platform offering high-quality website solutions for special occasions and personal memories. |
 | [**Hesaplama**](https://hesaplama.website) | Easy-to-use tools for all the calculations you need in your daily life. |
-| [**Holder Shot**](https://holdershot.com) | Take a snapshot of NFT token holders across many networks. |
 | [**Cryptocurrency Discord Bots**](https://cryptotrackerbot.com) | Bitcoin Fear and Greed Index, Halving Countdown, Dominance Trackers, Price Trackers, Gas Fee Trackers, Market Cap Trackers. [Top.gg](https://top.gg/bot/927613829381259345) |
 | [**Atatürk Discord Bot**](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=719897844085161985) | Discord bot created to commemorate Mustafa Kemal Atatürk. [Top.gg](https://top.gg/bot/719897844085161985) |
 | [**Muvaffak**](https://muvaffak.iyetsizlestiricilestiriveremeyebileceklerimizdenmissinizcesine.info) | Longest word in Turkish. |
