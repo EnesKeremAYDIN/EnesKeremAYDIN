@@ -23,7 +23,6 @@
 # Repositories
 | Name | Description | Lang |
 | --- | --- | --- |
-| [palette.css](https://github.com/EnesKeremAYDIN/palette.css) | Modular, theme-first CSS variable system that makes theming effortless. | CSS |
 | [TOTP Generator](https://github.com/EnesKeremAYDIN/totp-generator) | Simple web-based TOTP (Time-based One-Time Password) generator, ideal for generating secure, time-based authentication codes for two-factor authentication (2FA) systems. | HTML, CSS, JavaScript |
 | [PGP Tool](https://github.com/EnesKeremAYDIN/pgp-tool) | Web-based tool to generate PGP keys, encrypt messages, and decrypt messages securely using the OpenPGP.js library. This application allows users to manage PGP (Pretty Good Privacy) encryption and decryption operations directly from the browser. | HTML, CSS, JavaScript |
 | [Seed Word Finder](https://github.com/EnesKeremAYDIN/seed-word-finder) | A lightweight, offline-capable web tool designed to help recover lost cryptocurrency wallet recovery phrases (BIP39 mnemonic seeds). | HTML, CSS, JavaScript |
@@ -34,6 +33,7 @@
 | [Auto Backlink](https://github.com/EnesKeremAYDIN/auto-backlink) | Auto Backlink is a simple JavaScript script that dynamically adds hidden backlinks to your webpage. You can customize the link name, URL, rel (nofollow/dofollow), and target attributes. | JavaScript |
 | [Auto Source Injector](https://github.com/EnesKeremAYDIN/auto-source-injector) | Automatically appends a custom source parameter to all links on a webpage, ensuring consistent tracking or data attribution across external links. Ideal for managing URL parameters effortlessly. | JavaScript |
 | [İnteraktif Turkiye Haritasi](https://github.com/EnesKeremAYDIN/interaktif-turkiye-haritasi) | 81 ilin yer aldığı interaktif SVG Türkiye haritası. İle tıklayınca ismi görüntülenir. | HTML |
+| [palette.css](https://github.com/EnesKeremAYDIN/palette.css) | Modular, theme-first CSS variable system that makes theming effortless. | CSS |
 | [Auto Writer](https://github.com/EnesKeremAYDIN/auto-writer) | GUI-based automatic typing tool that types text automatically at a customizable speed in any application. | Python |
 | [Clean Windows](https://github.com/EnesKeremAYDIN/CleanWindows) | Tools to optimize Windows by removing bloatware, adjusting settings, and cleaning clutter. Back up your system before use to avoid potential stability issues. | Batchfile, PowerShell |
 | [Advanced Search](https://github.com/EnesKeremAYDIN/advanced-search) | Web-based advanced search tool designed to provide users with flexible, dynamic search options for customized search experiences. | HTML, CSS, JavaScript |
