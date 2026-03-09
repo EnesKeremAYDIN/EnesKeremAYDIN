@@ -12,13 +12,13 @@
 | [**URL Shorter**](https://EKAs.link) | Personal URL shorter created to shorten long URLs. |
 | [**Lab Portal**](https://lab.EKAs.dev) | Personal laboratory tools. |
 | [**Chain Platform**](https://chainplatform.co) | Leading the way in blockchain & crypto innovation with cutting-edge Web3 solutions and services. |
-| [**Üniversite Tercih**](https://universitetercih.net) | Türkiye's most comprehensive university preference platform. |
+| [**Yurt Menü**](https://yurtmenu.net) | Dormitory menu tracking tool for students. |
+| [**Üniversite Tercih**](https://universitetercih.net) | The most comprehensive university selection platform in Turkey for students. |
 | [**Sözlük Karıştır**](https://sozlukkaristir.com) | Turkish vocabulary learning site. |
 | [**Askımız**](https://askimiz.net) | A digital gifting platform offering high-quality website solutions for special occasions and personal memories. |
 | [**Hesaplama**](https://hesaplama.website) | Easy-to-use tools for all the calculations you need in your daily life. |
 | [**Cryptocurrency Discord Bots**](https://cryptotrackerbot.com) | Bitcoin Fear and Greed Index, Halving Countdown, Dominance Trackers, Price Trackers, Gas Fee Trackers, Market Cap Trackers. [Top.gg](https://top.gg/bot/927613829381259345) |
 | [**Atatürk Discord Bot**](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=719897844085161985) | Discord bot created to commemorate Mustafa Kemal Atatürk. [Top.gg](https://top.gg/bot/719897844085161985) |
-| [**Muvaffak**](https://muvaffak.iyetsizlestiricilestiriveremeyebileceklerimizdenmissinizcesine.info) | Longest word in Turkish. |
 
 # Repositories
 | Name | Description | Lang |
