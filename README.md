@@ -3,7 +3,6 @@
 - **LinkedIn:** [in/EnesKeremAYDIN](https://linkedin.com/in/EnesKeremAYDIN)
 - **Discord:** [@EKAloji](https://discord.com/users/817779288296128512)
 - **Telegram:** [@EKAloji](https://t.me/EKAloji)
-- **Instagram:** [@aydin.eneskerem](https://instagram.com/aydin.eneskerem)
 
 # Projects
 | Project | Description |
